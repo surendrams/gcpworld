@@ -1,0 +1,21 @@
+{
+  "name": "gcpworld",
+  "version": "1.0.0",
+  "description": "Sample application to test Cloud Run, GKE and etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "API",
+    "express"
+  ],
+  "author": "Surendranath Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
